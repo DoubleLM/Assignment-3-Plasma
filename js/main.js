@@ -1,52 +1,5 @@
 console.log("INITIALIZING JQUERY");
 
-$("#cso1").on("click", function () {
-    console.log("Casper Scribe Outfit 1 clicked");
-    $(this).css("background-image", "url(imgs/cspixel1.png)");
-    $(this).css("background-size", "220px");
-    $(this).css("background-repeat", "no-repeat");
-    console.log("Casper Scribe Outfit 1 loaded");
-    $(this).unbind("click");
-});
-
-$("#cso2").on("click", function () {
-    console.log("Casper Scribe Outfit 2 clicked");
-    $(this).css("background-image", "url(imgs/cspixel2.png)");
-    $(this).css("background-size", "220px");
-    $(this).css("background-repeat", "no-repeat");
-    console.log("Casper Scribe Outfit 2 loaded");
-    $(this).unbind("click");
-});
-
-$("#cso3").on("click", function () {
-    console.log("Casper Scribe Outfit 3 clicked");
-    $(this).css("background-image", "url(imgs/cspixel3.png)");
-    $(this).css("background-size", "220px");
-    $(this).css("background-repeat", "no-repeat");
-    console.log("Casper Scribe Outfit 3 loaded");
-    $(this).unbind("click");
-});
-
-$("#cso4").on("click", function () {
-    console.log("Casper Scribe Outfit 4 clicked");
-    $(this).css("background-image", "url(imgs/cspixel4.png)");
-    $(this).css("background-size", "220px");
-    $(this).css("background-repeat", "no-repeat");
-    console.log("Casper Scribe Outfit 4 loaded");
-    $(this).unbind("click");
-});
-
-$("#cso5").on("click", function () {
-    console.log("Casper Scribe Outfit 5 clicked");
-    $(this).css("background-image", "url(imgs/cspixel5.png)");
-    $(this).css("background-size", "220px");
-    $(this).css("background-repeat", "no-repeat");
-    console.log("Casper Scribe Outfit 5 loaded");
-    $(this).unbind("click");
-});
-
-console.log("CASPER SCRIBE OUTFITS LOADED");
-
 $("#jwo1").on("click", function () {
     console.log("Juniper Whitaker Outfit 1 clicked");
     $(this).css("background-image", "url(imgs/jwpixel1.png)");
