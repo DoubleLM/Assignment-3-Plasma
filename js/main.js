@@ -50,9 +50,8 @@ console.log("JUNIPER WHITAKER OUTFITS LOADED");
 $("#ato1").on("click", function () {
     console.log("Avian Tiercel Outfit 1 clicked");
     $(this).css("background-image", "url(imgs/atpixel1.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "200px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Avian Tiercel Outfit 1 loaded");
     $(this).unbind("click");
 });
@@ -60,9 +59,8 @@ $("#ato1").on("click", function () {
 $("#ato2").on("click", function () {
     console.log("Avian Tiercel Outfit 2 clicked");
     $(this).css("background-image", "url(imgs/atpixel2.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "200px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Avian Tiercel Outfit 2 loaded");
     $(this).unbind("click");
 });
@@ -70,9 +68,8 @@ $("#ato2").on("click", function () {
 $("#ato3").on("click", function () {
     console.log("Avian Tiercel Outfit 3 clicked");
     $(this).css("background-image", "url(imgs/atpixel3.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "200px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Avian Tiercel Outfit 3 loaded");
     $(this).unbind("click");
 });
@@ -80,9 +77,8 @@ $("#ato3").on("click", function () {
 $("#ato4").on("click", function () {
     console.log("Avian Tiercel Outfit 4 clicked");
     $(this).css("background-image", "url(imgs/atpixel4.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "200px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Avian Tiercel Outfit 4 loaded");
     $(this).unbind("click");
 });
@@ -90,9 +86,8 @@ $("#ato4").on("click", function () {
 $("#ato5").on("click", function () {
     console.log("Avian Tiercel Outfit 5 clicked");
     $(this).css("background-image", "url(imgs/atpixel5.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "200px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Avian Tiercel Outfit 5 loaded");
     $(this).unbind("click");
 });
@@ -102,9 +97,8 @@ console.log("AVIAN TIERCEL OUTFITS LOADED");
 $("#aro1").on("click", function () {
     console.log("Ardo Ruutel Outfit 1 clicked");
     $(this).css("background-image", "url(imgs/arpixel1.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "210px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Ardo Ruutel Outfit 1 loaded");
     $(this).unbind("click");
 });
@@ -112,9 +106,8 @@ $("#aro1").on("click", function () {
 $("#aro2").on("click", function () {
     console.log("Ardo Ruutel Outfit 2 clicked");
     $(this).css("background-image", "url(imgs/arpixel2.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "210px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Ardo Ruutel Outfit 2 loaded");
     $(this).unbind("click");
 });
@@ -122,9 +115,8 @@ $("#aro2").on("click", function () {
 $("#aro3").on("click", function () {
     console.log("Ardo Ruutel Outfit 3 clicked");
     $(this).css("background-image", "url(imgs/arpixel3.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "210px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Ardo Ruutel Outfit 3 loaded");
     $(this).unbind("click");
 });
@@ -132,9 +124,8 @@ $("#aro3").on("click", function () {
 $("#aro4").on("click", function () {
     console.log("Ardo Ruutel Outfit 4 clicked");
     $(this).css("background-image", "url(imgs/arpixel4.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "210px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Ardo Ruutel Outfit 4 loaded");
     $(this).unbind("click");
 });
@@ -142,9 +133,8 @@ $("#aro4").on("click", function () {
 $("#aro5").on("click", function () {
     console.log("Ardo Ruutel Outfit 5 clicked");
     $(this).css("background-image", "url(imgs/arpixel5.png)");
-    $(this).css("background-size", "220px");
+    $(this).css("background-size", "210px");
     $(this).css("background-repeat", "no-repeat");
-    $(this).html(" ");
     console.log("Ardo Ruutel Outfit 5 loaded");
     $(this).unbind("click");
 });
